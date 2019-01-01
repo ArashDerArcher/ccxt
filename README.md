@@ -20,10 +20,6 @@ Current feature list:
 - an out-of-the box unified all-in-one API extremely easy to integrate
 - works in Node 7.6+, Python 2 and 3, PHP 5.4+, web browsers
 
-## Sponsored Promotion
-
-[![https://www.coss.io](https://user-images.githubusercontent.com/1294454/49981835-f497b780-ff6a-11e8-8377-03c31cb8e402.gif)](https://www.coss.io)
-
 ## Certified Cryptocurrency Exchanges
 
 
